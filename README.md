@@ -9,4 +9,4 @@ How to play:
 4. Run 'make' to compile the game's source files
 5. Run 'java Blackjack' to start the game
 6. Follow the text prompts to play the game
-7. Run 'make clean' to remove the .class files
+7. Run 'make clean' to remove the class files
