@@ -1,4 +1,4 @@
-// Hand file
+// Hand.java
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-// Randomizer file
+// Randomizer.java
 
 import java.util.*;
 

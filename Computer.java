@@ -1,4 +1,4 @@
-// Computer file
+// Computer.java
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-// Deck file
+// Deck.java
 
 import java.util.*;
 

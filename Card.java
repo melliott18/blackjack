@@ -1,4 +1,4 @@
-// Card file
+// Card.java
 
 public class Card
 {

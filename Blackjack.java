@@ -1,4 +1,4 @@
-// Main file:
+// Blackjack.java
 
 import java.util.*;
 
